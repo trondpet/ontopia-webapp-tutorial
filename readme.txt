@@ -1,0 +1,1 @@
+Example code for a series of blog post I wrote back in 2009 on creating simple web apps on top of the [Ontopia topic maps engine](http://www.ontopia.net/). The blog (http://topicobserver.com/) is currently not online.
